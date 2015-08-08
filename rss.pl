@@ -1,8 +1,9 @@
 #!/usr/bin/perl
 #
-# build by dongogo
+# implemented by chinhui-chen
 #
 # 2010/4/1 ver 1.0 , need log
+# 2015/8/8 ver 1.1 , add to github
 #
 use Smart::Comments ;
 use DBI ;
